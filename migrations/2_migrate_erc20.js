@@ -2,7 +2,6 @@ const ERC20 = artifacts.require("ERC20");
 
 const _name = "ErEr";
 const _symbol = "ER";
-
 const _amount = "100"
 
 module.exports = function(deployer, network, accounts) {
