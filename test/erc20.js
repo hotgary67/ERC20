@@ -13,5 +13,3 @@ contract('ERC20', function(accounts) {
     })
   });
 });
-
-
